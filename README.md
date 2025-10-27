@@ -136,4 +136,4 @@ The full API contract for all microservices is defined in our shared design docu
 | Member | GitHub Profile |
 | :--- | :--- |
 | **Member 1 Name** | [null-dreams](https://github.com/null-dreams) |
-| **Member 2 Name** | [aaratrikashelly](https://github.com/aaratrikashelly) |
+| **Member 2 Name** | [Aaratrika-Shelly](https://github.com/Aaratrika-Shelly) |
