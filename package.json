@@ -1,0 +1,21 @@
+{
+  "name": "campus-connect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/null-dreams/campus-connect.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/null-dreams/campus-connect/issues"
+  },
+  "homepage": "https://github.com/null-dreams/campus-connect#readme"
+}
