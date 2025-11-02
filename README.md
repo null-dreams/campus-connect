@@ -51,9 +51,9 @@ The system consists of several independent microservices that communicate via RE
 The project is currently in its initial phase. The core structure is in place, and the foundational services are containerized.
 
 -   [x] Repository & Monorepo Structure
--   [ ] Code Quality Tooling (ESLint, Prettier)
--   [ ] Full API Contract Definition
--   [ ] Containerized Skeletons for Backend & Frontend
+-   [x] Code Quality Tooling (ESLint, Prettier)
+-   [x] Full API Contract Definition
+-   [x] Containerized Skeletons for Backend & Frontend
 -   [ ] **Next:** Phase 2 - MVP Feature Development
 -   [ ] **Planned:** Phase 3 - Kubernetes Deployment & CI/CD
 -   [ ] **Planned:** Phase 4 - Service Mesh & Observability
